@@ -1,0 +1,8 @@
+bayesian-optimization>=1.4
+h5py>=3.8
+numpy>=1.24
+pandas>=2.0
+plotly>=5.15
+scipy>=1.10
+tqdm>=4.65
+jupyterlab>=4.0
